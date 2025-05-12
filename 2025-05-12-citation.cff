@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 2025-SDP-tutorial
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Donato
+    family-names: Farina
+    email: donatofarina91@gmail.com
+    orcid: 'https://orcid.org/0000-0002-7248-664X'
+    affiliation: >-
+      Physics Department Ettore Pancini, University of
+      Naples Federico II
+repository-code: 'https://github.com/donatofarina91/2025-optimization-course'
+keywords:
+  - semidefinite programming
+  - quantum information
+  - many-body systems
+license: CC-BY-4.0
