@@ -15,4 +15,4 @@ Repository on semidefinite programming in quantum information for the course "Op
 
 
 License:
-All notebooks are available under the the terms of the Creative Commons CC-BY 4.0 public license.
+All notebooks are available under the terms of the Creative Commons CC-BY 4.0 public license.
